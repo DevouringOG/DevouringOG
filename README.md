@@ -1,5 +1,5 @@
 # Welcome! 👋
-[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/Artm0G)
 [![CV](https://img.shields.io/badge/View_CV-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/DevouringOG/DevouringOG/main/cv.pdf)
 
 ### Backend Developer
