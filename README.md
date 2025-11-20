@@ -1,6 +1,5 @@
 # Welcome! 👋
 [![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/Artem0G)
-[![CV](https://img.shields.io/badge/CV-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/DevouringOG/DevouringOG/master/cv.pdf)
 
 ### Backend Developer
 
@@ -26,3 +25,7 @@ Focused on building clear and useful products. I enjoy tackling new challenges a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+[![CV](https://img.shields.io/badge/MY_CV-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/DevouringOG/DevouringOG/master/cv.pdf)
