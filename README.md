@@ -1,5 +1,5 @@
 # Welcome! 👋
-[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/Artem0G)
+[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/mav_dev)
 
 ### Backend Developer
 
